@@ -1,0 +1,16 @@
+<resources>    
+    
+    <dimen name="global_padding">10dp</dimen>
+    <dimen name="global_margin">10dp</dimen>
+    <dimen name="global_half_margin">4dp</dimen>
+    <dimen name="global_text_size">25sp</dimen>
+    <dimen name="global_small_text_size">20sp</dimen>
+    
+    <dimen name="global_round_corner">10dp</dimen>
+    
+    <!-- Tablet 10" Layout -->
+    <dimen name="sample_2_layout_1_height">250dp</dimen>
+    <dimen name="sample_2_layout_2_height">120dp</dimen>
+    <dimen name="sample_2_side_layout_width">420dp</dimen>
+
+</resources>

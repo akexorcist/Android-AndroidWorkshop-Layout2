@@ -1,0 +1,15 @@
+<resources>    
+    
+    <dimen name="global_padding">8dp</dimen>
+    <dimen name="global_margin">8dp</dimen>
+    <dimen name="global_half_margin">4dp</dimen>
+    <dimen name="global_text_size">16sp</dimen>
+    <dimen name="global_small_text_size">10sp</dimen>
+    
+    <dimen name="global_round_corner">10dp</dimen>
+    
+    <!-- Phone Layout -->
+    <dimen name="sample_2_layout_1_height">120dp</dimen>
+    <dimen name="sample_2_layout_2_height">48dp</dimen>
+
+</resources>
