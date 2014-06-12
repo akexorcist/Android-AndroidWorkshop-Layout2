@@ -13,7 +13,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="0dp"
             android:layout_marginBottom="@dimen/global_margin"
             android:layout_weight="1"
             android:background="@color/color_light_gray"
@@ -23,13 +23,13 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="0dp"
                 android:layout_marginBottom="@dimen/global_margin"
                 android:layout_weight="1" >
 
                 <LinearLayout
                     android:id="@+id/buttonSomething1"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginRight="@dimen/global_margin"
                     android:layout_weight="1"
@@ -37,7 +37,7 @@
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_height="0dp"
                         android:layout_marginBottom="@dimen/global_margin"
                         android:layout_weight="1"
                         android:background="@color/color_pink"
@@ -57,14 +57,14 @@
 
                 <LinearLayout
                     android:id="@+id/buttonSomething2"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="vertical" >
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_height="0dp"
                         android:layout_marginBottom="@dimen/global_margin"
                         android:layout_weight="1"
                         android:background="@color/color_pink"
@@ -85,13 +85,13 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="0dp"
                 android:layout_marginTop="@dimen/global_margin"
                 android:layout_weight="1" >
 
                 <LinearLayout
                     android:id="@+id/buttonSomething3"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginRight="@dimen/global_margin"
                     android:layout_weight="1"
@@ -99,7 +99,7 @@
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_height="0dp"
                         android:layout_marginBottom="@dimen/global_margin"
                         android:layout_weight="1"
                         android:background="@color/color_pink"
@@ -119,14 +119,14 @@
 
                 <LinearLayout
                     android:id="@+id/buttonSomething4"
-                    android:layout_width="match_parent"
+                    android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:orientation="vertical" >
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
+                        android:layout_height="0dp"
                         android:layout_marginBottom="@dimen/global_margin"
                         android:layout_weight="1"
                         android:background="@color/color_pink"
@@ -155,7 +155,7 @@
 
             <Button
                 android:id="@+id/buttonMenu1"
-                android:layout_width="match_parent"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/selector_button"
@@ -171,7 +171,7 @@
 
             <Button
                 android:id="@+id/buttonMenu2"
-                android:layout_width="match_parent"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/selector_button"
@@ -187,7 +187,7 @@
 
             <Button
                 android:id="@+id/buttonMenu3"
-                android:layout_width="match_parent"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/selector_button"
@@ -203,7 +203,7 @@
 
             <Button
                 android:id="@+id/buttonMenu4"
-                android:layout_width="match_parent"
+                android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:background="@drawable/selector_button"
